@@ -93,8 +93,8 @@
 
 ## 🤝 Connect with me
 
-<p>🌐 Instagram: @slowlyy.v2</p>
-<p>💬 Discord: @azarican</p>
+<p>🌐 Instagram: https://www.instagram.com/slowlyy.v2</p>
+<p>💬 Discord: https://discord.gg/TKbPMmvYXE</p>
 <p>📺 Twitch: https://twitch.tv/azarican</p>
 
 ---
