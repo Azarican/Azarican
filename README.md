@@ -92,27 +92,86 @@
 ---
 
 ## 📡 Live Service Status
-
 <p align="center">
   <b>Status der wichtigsten Infrastruktur-Komponenten</b><br>
-  <sub>Aktualisiert automatisch & in Echtzeit</sub>
+  <sub>Aktualisiert automatisch, visuell & in Echtzeit</sub>
 </p>
 
 <div align="center">
 
-| Kategorie | Status |
-|----------:|:------|
-| 🧩 Core Infrastructure | ![Core Infra](https://status.mhn-company.dev/api/badge/2/status?label=CORE) |
-| 🌐 Cloud & Network Edge | ![Network Edge](https://status.mhn-company.dev/api/badge/9/status?label=EDGE) |
-| 🖥️ Server & Containers | ![Servers](https://status.mhn-company.dev/api/badge/15/status?label=SERVERS) |
-| 🧪 Application Services | ![Apps](https://status.mhn-company.dev/api/badge/22/status?label=APPS) |
-| 🚀 External & Public Services | ![Public](https://status.mhn-company.dev/api/badge/33/status?label=PUBLIC) |
+<!-- Status Cards -->
+<table>
+<tr>
+<td align="center" width="200">
+  
+### 🧩  
+**Core Infrastructure**
+
+<br>
+
+![Core Infra](https://status.mhn-company.dev/api/badge/2/status?label=CORE)
+
+</td>
+<td align="center" width="200">
+
+### 🌐  
+**Cloud & Network Edge**
+
+<br>
+
+![Network Edge](https://status.mhn-company.dev/api/badge/9/status?label=EDGE)
+
+</td>
+<td align="center" width="200">
+
+### 🖥️  
+**Server & Containers**
+
+<br>
+
+![Servers](https://status.mhn-company.dev/api/badge/15/status?label=SERVERS)
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="200">
+
+### 🧪  
+**Application Services**
+
+<br>
+
+![Apps](https://status.mhn-company.dev/api/badge/22/status?label=APPS)
+
+</td>
+<td align="center" width="200">
+
+### 🚀  
+**External & Public Services**
+
+<br>
+
+![Public](https://status.mhn-company.dev/api/badge/33/status?label=PUBLIC)
+
+</td>
+<td align="center" width="200">
+
+### 🔍  
+**Monitoring & Insights**
+
+<br>
+
+![Monitor](https://status.mhn-company.dev/api/badge/2/status?label=INFO)
+
+</td>
+</tr>
+</table>
+
+<br>
+<sub>🟢 Operational • 🟡 Degraded • 🔴 Issue detected</sub>
 
 </div>
-
-<p align="center">
-  <sup>🟢 Operational • 🟡 Degraded • 🔴 Issue detected</sup>
-</p>
 
 ---
 
