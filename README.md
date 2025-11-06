@@ -91,6 +91,31 @@
 
 ---
 
+## 📡 Live Service Status
+
+<p align="center">
+  <b>Status der wichtigsten Infrastruktur-Komponenten</b><br>
+  <sub>Aktualisiert automatisch & in Echtzeit</sub>
+</p>
+
+<div align="center">
+
+| Kategorie | Status |
+|----------:|:------|
+| 🧩 Core Infrastructure | ![Core Infra](https://status.mhn-company.dev/api/badge/2/status?label=CORE) |
+| 🌐 Cloud & Network Edge | ![Network Edge](https://status.mhn-company.dev/api/badge/9/status?label=EDGE) |
+| 🖥️ Server & Containers | ![Servers](https://status.mhn-company.dev/api/badge/15/status?label=SERVERS) |
+| 🧪 Application Services | ![Apps](https://status.mhn-company.dev/api/badge/22/status?label=APPS) |
+| 🚀 External & Public Services | ![Public](https://status.mhn-company.dev/api/badge/33/status?label=PUBLIC) |
+
+</div>
+
+<p align="center">
+  <sup>🟢 Operational • 🟡 Degraded • 🔴 Issue detected</sup>
+</p>
+
+---
+
 ## 🤝 Connect with me
 
 <p>🌐 Instagram: https://www.instagram.com/slowlyy.v2</p>
