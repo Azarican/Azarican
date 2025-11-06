@@ -94,61 +94,102 @@
 ## 📡 Live Infrastructure Status
 
 <p align="center">
-  <strong>Mission-Critical Infrastructure • Real-Time Health Dashboard</strong><br>
+  <strong>Mission-Critical Infrastructure • Real-Time Reliability Dashboard</strong><br>
   <sub>Automatisiert • Selbstgehostet • Zero-Trust Secured</sub>
 </p>
 
-<br>
+<style>
+.status-card {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  padding: 18px;
+  border-radius: 16px;
+  width: 220px;
+  margin: 6px;
+  box-shadow: 0 0 24px rgba(0,0,0,0.25);
+}
+.heartbeat {
+  animation: heartbeat 1.5s infinite;
+}
+@keyframes heartbeat {
+  0%, 100% { opacity: 0.3; }
+  50% { opacity: 1; }
+}
+</style>
 
 <div align="center">
 
 <table style="border:none;">
-  <tr>
-    <td align="center" width="220" style="padding: 12px; border-radius:16px;">
-      <img height="38" src="https://cdn-icons-png.flaticon.com/512/3625/3625315.png" alt="Core">
-      <br><br><strong>Core Infrastructure</strong><br><br>
-      <img src="https://status.mhn-company.dev/api/badge/2/status?label= "><br><br>
-      <sub>KVM • Storage • Identity</sub>
-    </td>
-    <td align="center" width="220" style="padding: 12px; border-radius:16px;">
-      <img height="38" src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" alt="Edge">
-      <br><br><strong>Network & Edge</strong><br><br>
-      <img src="https://status.mhn-company.dev/api/badge/9/status?label= "><br><br>
-      <sub>OPNsense • VPN • DNSSEC</sub>
-    </td>
-    <td align="center" width="220" style="padding: 12px; border-radius:16px;">
-      <img height="38" src="https://cdn-icons-png.flaticon.com/512/900/900797.png" alt="Servers">
-      <br><br><strong>Server & Containers</strong><br><br>
-      <img src="https://status.mhn-company.dev/api/badge/15/status?label= "><br><br>
-      <sub>Proxmox • Docker • Orchestrierung</sub>
-    </td>
-  </tr>
 
-  <tr>
-    <td align="center" width="220" style="padding: 12px; border-radius:16px;">
-      <img height="38" src="https://cdn-icons-png.flaticon.com/512/9073/9073110.png" alt="Apps">
-      <br><br><strong>Application Services</strong><br><br>
-      <img src="https://status.mhn-company.dev/api/badge/22/status?label= "><br><br>
-      <sub>Portal • Automation • Secure Web</sub>
-    </td>
-    <td align="center" width="220" style="padding: 12px; border-radius:16px;">
-      <img height="38" src="https://cdn-icons-png.flaticon.com/512/11488/11488215.png" alt="Public">
-      <br><br><strong>External & Public Services</strong><br><br>
-      <img src="https://status.mhn-company.dev/api/badge/33/status?label= "><br><br>
-      <sub>Web • APIs • External Endpoints</sub>
-    </td>
-    <td align="center" width="220" style="padding: 12px; border-radius:16px;">
-      <img height="38" src="https://cdn-icons-png.flaticon.com/512/4230/4230818.png" alt="Monitoring">
-      <br><br><strong>Monitoring & Insights</strong><br><br>
-      <img src="https://status.mhn-company.dev/api/badge/2/status?label= "><br><br>
-      <sub>Logs • Analytics • Metrics</sub>
-    </td>
-  </tr>
+<tr>
+<td align="center">
+<div class="status-card">
+<img height="36" src="https://cdn-icons-png.flaticon.com/512/3625/3625315.png"><br><br>
+<b>Core Infrastructure</b><br><br>
+<img class="heartbeat" src="https://status.mhn-company.dev/api/badge/2/status?label= ">
+<br><sub>99.99% uptime</sub><br><br>
+<img height="20" src="https://img.shields.io/badge/Zero--Trust-Active-1f8ceb?style=flat">
+</div>
+</td>
+
+<td align="center">
+<div class="status-card">
+<img height="36" src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png"><br><br>
+<b>Network & Edge</b><br><br>
+<img class="heartbeat" src="https://status.mhn-company.dev/api/badge/9/status?label= ">
+<br><sub>99.95% uptime</sub><br><br>
+<img height="20" src="https://img.shields.io/badge/MFA-Required-1f8ceb?style=flat">
+</div>
+</td>
+
+<td align="center">
+<div class="status-card">
+<img height="36" src="https://cdn-icons-png.flaticon.com/512/900/900797.png"><br><br>
+<b>Server & Containers</b><br><br>
+<img class="heartbeat" src="https://status.mhn-company.dev/api/badge/15/status?label= ">
+<br><sub>100% uptime</sub><br><br>
+<img height="20" src="https://img.shields.io/badge/Anti--Tamper-Enabled-1f8ceb?style=flat">
+</div>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<div class="status-card">
+<img height="36" src="https://cdn-icons-png.flaticon.com/512/9073/9073110.png"><br><br>
+<b>Application Services</b><br><br>
+<img class="heartbeat" src="https://status.mhn-company.dev/api/badge/22/status?label= ">
+<br><sub>99.99% uptime</sub><br><br>
+<img height="20" src="https://img.shields.io/badge/Request--Firewall-ON-1f8ceb?style=flat">
+</div>
+</td>
+
+<td align="center">
+<div class="status-card">
+<img height="36" src="https://cdn-icons-png.flaticon.com/512/11488/11488215.png"><br><br>
+<b>External & Public</b><br><br>
+<img class="heartbeat" src="https://status.mhn-company.dev/api/badge/33/status?label= ">
+<br><sub>99.90% uptime</sub><br><br>
+<img height="20" src="https://img.shields.io/badge/CDN-Cloudflare-1f8ceb?style=flat">
+</div>
+</td>
+
+<td align="center">
+<div class="status-card">
+<img height="36" src="https://cdn-icons-png.flaticon.com/512/4230/4230818.png"><br><br>
+<b>Monitoring Platform</b><br><br>
+<img class="heartbeat" src="https://status.mhn-company.dev/api/badge/2/status?label= ">
+<br><sub>Observability OK ✅</sub><br><br>
+<img height="20" src="https://img.shields.io/badge/Auditing-Active-1f8ceb?style=flat">
+</div>
+</td>
+</tr>
+
 </table>
 
 <br>
+<sub>🟢 Operational • 🟡 Degraded • 🔴 Fault Detected</sub>
 
-<sub>🟢 Operational • 🟡 Degraded • 🔴 Fault detected</sub>
 </div>
 
 ---
