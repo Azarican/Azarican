@@ -79,13 +79,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Azarican&show_icons=true&theme=tokyonight&hide_rank=false)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azarican&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Azarican&show_icons=true&theme=tokyonight" />
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azarican&layout=compact&theme=tokyonight" />
+<br><br>
+<img src="https://github-profile-trophy.vercel.app/?username=Azarican&theme=tokyonight&margin-w=10" />
 
 </div>
 
