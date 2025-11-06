@@ -93,9 +93,9 @@
 
 ## 🤝 Connect with me
 
-🌐 Instagram: @slowlyy.v2
-💬 Discord: @azarican
-📺 Twitch: https://twitch.tv/azarican
+<p>🌐 Instagram: @slowlyy.v2</p>
+<p>💬 Discord: @azarican</p>
+<p>📺 Twitch: https://twitch.tv/azarican</p>
 
 ---
 
