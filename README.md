@@ -3,7 +3,7 @@
   <img src="https://venasty-systems.de/files/github-header-banner.png" alt="Phillip Banner">
 </p>
 
-<h1 align="center">👋 Hey, ich bin Phillip — Homelab Engineer & IT-Developer</h1>
+<h1 align="center">👋 Hey, ich bin Phillip — Homelab Engineer & Developer</h1>
 
 <p align="center">
   <b>Ich baue meine eigene Cloud-Infrastruktur. Sicher. Automatisiert. Selbstbestimmt.</b>
