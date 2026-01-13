@@ -1,6 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://venasty-systems.de/files/github-header-banner.png" alt="Phillip Banner">
+  <img
+    src="https://venasty-systems.de/files/Azarican-profile-banner.svg"
+    alt="Azarican / Phillip – Profile Banner"
+    width="100%"
+  >
 </p>
 
 <h1 align="center">👋 Hey, ich bin Phillip — Homelab Engineer & Developer</h1>
