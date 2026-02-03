@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
   <img
-    src="https://venasty-systems.de/files/Azarican-profile-banner.svg"
+    src="https://voelkel.sbs/files/Azarican-profile-banner.svg"
     alt="Azarican / Phillip – Profile Banner"
     width="100%"
   >
