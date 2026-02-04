@@ -155,7 +155,7 @@
 ## 🧩 Meine Infrastruktur (Homelab)
 
 <p align="center">
-  <img src="https://venasty-systems.de/files/sUlLcrebLg4.png" width="80%" />
+  <img src="https://voelkel.cfd/proxmox-ve.png" width="80%" />
 </p>
 
 **Highlights**
