@@ -90,7 +90,7 @@
 ![Vaultwarden](https://img.shields.io/badge/Vaultwarden-2B2B2B?style=for-the-badge)
 ![Watchtower](https://img.shields.io/badge/Watchtower-1D63ED?style=for-the-badge)
 
-### 📊 Skills — Proficiency (Selbsteinschätzung)
+### 📊 Skills - Proficiency (Selbsteinschätzung)
 
 | Bereich | Level |
 |--------|-------|
@@ -103,7 +103,7 @@
 
 ---
 
-### 💻 Development — Proficiency (Sprachen & Tools)
+### 💻 Development - Proficiency (Sprachen & Tools)
 
 | Tech | Level |
 |-----|-------|
@@ -116,10 +116,10 @@
 
 ---
 
-### 🛡 Security Posture — My Approach
+### 🛡 Security Posture - My Approach
 
 ✅ Zero-Trust als Architekturprinzip  
-✅ MFA überall — kein Zugang ohne Identitätsprüfung  
+✅ MFA überall - kein Zugang ohne Identitätsprüfung  
 ✅ Kontinuierliches Monitoring & Echtzeit-Alerts  
 ✅ Least-Privilege: Rechte nur, wenn wirklich notwendig  
 ✅ Vollständige Auditierung aller Zugriffe  
@@ -137,9 +137,9 @@
 
 ---
 
-### 💼 Why it matters — Business Value
+### 💼 Why it matters - Business Value
 
-> Sicherheit ist kein Projekt — sondern ein Zustand,  
+> Sicherheit ist kein Projekt - sondern ein Zustand,  
 > der jeden Tag verteidigt und verbessert wird.
 
 ✔ Schutz sensibler Daten & Identitäten  
@@ -155,7 +155,7 @@
 ## 🧩 Meine Infrastruktur (Homelab)
 
 <p align="center">
-  <img src="https://voelkel.cfd/proxmox-ve.png" width="80%" />
+  <img src="https://synvix.de/files/proxmox_ve.png" width="80%" />
 </p>
 
 **Highlights**
@@ -257,8 +257,8 @@
 
 ## 🤝 Connect with me
 
-<p>🌐 Instagram: https://www.instagram.com/slowlyy.v2</p>
-<p>💬 Discord: https://discord.gg/TKbPMmvYXE</p>
+<p>🌐 Instagram: https://www.instagram.com/phillip.vxl</p>
+<p>💬 Discord: https://discord.gg/yRAtVy6mNT</p>
 <p>📺 Twitch: https://twitch.tv/azarican</p>
 
 ---
