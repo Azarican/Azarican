@@ -1,13 +1,13 @@
 <!-- Banner -->
 <p align="center">
   <img
-    src="https://voelkel.sbs/Azarican-profile-banner.svg"
-    alt="Azarican / Phillip – Profile Banner"
+    src="https://synvix.de/files/Azarican-profile-banner.svg"
+    alt="Azarican / Phillip - Profile Banner"
     width="100%"
   >
 </p>
 
-<h1 align="center">👋 Hey, ich bin Phillip — Homelab Engineer & Developer</h1>
+<h1 align="center">👋 Hey, ich bin Phillip - Homelab Engineer & Developer</h1>
 
 <p align="center">
   <b>Ich baue meine eigene Cloud-Infrastruktur. Sicher. Automatisiert. Selbstbestimmt.</b>
