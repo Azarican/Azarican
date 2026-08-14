@@ -1,12 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img
-    src="https://synvix.de/files/Azarican-profile-banner.svg"
-    alt="Azarican / Phillip - Profile Banner"
-    width="100%"
-  >
-</p>
-
 <h1 align="center">👋 Hey, ich bin Phillip - Homelab Engineer & Developer</h1>
 
 <p align="center">
@@ -154,10 +145,6 @@
 
 ## 🧩 Meine Infrastruktur (Homelab)
 
-<p align="center">
-  <img src="https://synvix.de/files/proxmox_ve.png" width="80%" />
-</p>
-
 **Highlights**
 - Proxmox → LXC + VMs (OPNsense, Logging, Security Services)
 - Cloudflare Tunnel → Secure External Access
@@ -172,7 +159,7 @@
 
 | Projekt | Beschreibung | Status |
 |--------|--------------|------|
-| Venasty Cloud Hub | Automatisierte Hosting-Umgebung | 🚧 Beta |
+| Synvix Cloud Hub | Automatisierte Hosting-Umgebung | 🚧 Beta |
 | Secure Login Alerts | NTFY + Bash Monitoring Worker | ✅ Live |
 | Web Dev Playground | UI-Experimente & moderne Webkomponenten | 🔄 Refactor |
 | Homelab Automation Toolkit | Scripts & Policies for Failover & Backup | 🧪 Testing |
@@ -183,83 +170,21 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Azarican&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=zervario&show_icons=true&theme=tokyonight" />
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azarican&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zervario&layout=compact&theme=tokyonight" />
 <br><br>
-<img src="https://github-profile-trophy.vercel.app/?username=Azarican&theme=tokyonight&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=zervario&theme=tokyonight&margin-w=10" />
 
-</div>
-
----
-
-## 📡 Live Infrastructure Status
-
-<p align="center">
-  <strong>Mission-Critical Infrastructure • Real-Time Health Dashboard</strong><br>
-  <sub>Automatisiert • Selbstgehostet • Zero-Trust Secured</sub>
-</p>
-
-<br>
-
-<div align="center">
-
-<table style="border:none;">
-  <tr>
-    <td align="center" width="220" style="padding: 12px; border-radius:16px;">
-      <img height="38" src="https://cdn-icons-png.flaticon.com/512/3625/3625315.png" alt="Core">
-      <br><br><strong>Core Infrastructure</strong><br><br>
-      <img src="https://status.mhn-company.dev/api/badge/2/status?label= "><br><br>
-      <sub>KVM • Storage • Identity</sub>
-    </td>
-    <td align="center" width="220" style="padding: 12px; border-radius:16px;">
-      <img height="38" src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" alt="Edge">
-      <br><br><strong>Network & Edge</strong><br><br>
-      <img src="https://status.mhn-company.dev/api/badge/9/status?label= "><br><br>
-      <sub>OPNsense • VPN • DNSSEC</sub>
-    </td>
-    <td align="center" width="220" style="padding: 12px; border-radius:16px;">
-      <img height="38" src="https://cdn-icons-png.flaticon.com/512/900/900797.png" alt="Servers">
-      <br><br><strong>Server & Containers</strong><br><br>
-      <img src="https://status.mhn-company.dev/api/badge/15/status?label= "><br><br>
-      <sub>Proxmox • Docker • Orchestrierung</sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="220" style="padding: 12px; border-radius:16px;">
-      <img height="38" src="https://cdn-icons-png.flaticon.com/512/9073/9073110.png" alt="Apps">
-      <br><br><strong>Application Services</strong><br><br>
-      <img src="https://status.mhn-company.dev/api/badge/22/status?label= "><br><br>
-      <sub>Portal • Automation • Secure Web</sub>
-    </td>
-    <td align="center" width="220" style="padding: 12px; border-radius:16px;">
-      <img height="38" src="https://cdn-icons-png.flaticon.com/512/11488/11488215.png" alt="Public">
-      <br><br><strong>External & Public Services</strong><br><br>
-      <img src="https://status.mhn-company.dev/api/badge/33/status?label= "><br><br>
-      <sub>Web • APIs • External Endpoints</sub>
-    </td>
-    <td align="center" width="220" style="padding: 12px; border-radius:16px;">
-      <img height="38" src="https://cdn-icons-png.flaticon.com/512/4230/4230818.png" alt="Monitoring">
-      <br><br><strong>Monitoring & Insights</strong><br><br>
-      <img src="https://status.mhn-company.dev/api/badge/2/status?label= "><br><br>
-      <sub>Logs • Analytics • Metrics</sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<sub>🟢 Operational • 🟡 Degraded • 🔴 Fault detected</sub>
 </div>
 
 ---
 
 ## 🤝 Connect with me
 
-<p>🌐 Instagram: https://www.instagram.com/phillip.vxl</p>
+<p>🌐 Instagram: https://www.instagram.com/zervario</p>
 <p>💬 Discord: https://discord.gg/yRAtVy6mNT</p>
-<p>📺 Twitch: https://twitch.tv/azarican</p>
+<p>📺 Twitch: https://twitch.tv/zervario</p>
 
 ---
 
